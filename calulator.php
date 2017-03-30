@@ -1,3 +1,11 @@
+<!--
+This is the most basic calculator which I have created in PHP.
+
+
+-->
+
+
+
 <!DOCTYPE html>
 <html>
 <head>
